@@ -1,0 +1,7 @@
+name=input('Enter your name: ')
+print(name)
+age=input('Enter your age: ')
+print(age)
+location=input('Enter your location: ')
+print(location)
+print(fr'Hello {name} you are {age} years old and live in {location}')
